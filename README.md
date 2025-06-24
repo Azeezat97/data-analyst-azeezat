@@ -12,3 +12,6 @@ In this project, a full-stack Data Analytics Platform (DAP) was designed and dep
 - Pipeline 7: Data Governance – Implemented quality checks using Glue ETL and routed records to Passed/Failed buckets.
 - Pipeline 8: Monitoring – Created CloudWatch dashboards and CloudTrail logs to track jobs and activities.
 ![AWS Architecture Diagram](https://github.com/azeezat97/aws-business-license-analysis/blob/main/architecture/architecture-diagram.png)
+![image](https://github.com/user-attachments/assets/6e42f8c0-9963-45e4-a41b-e64874c65b9a)
+![image](https://github.com/user-attachments/assets/7c5a107c-83f6-4395-ba42-f48246e61b27)
+
